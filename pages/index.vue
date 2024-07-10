@@ -134,7 +134,7 @@
           <div class="w3-container">
             <h5 class="w3-opacity"><b>Mei 2024</b></h5>
             <p>
-              Advanced Uncerstanding of Basic Machine Learning and Data Science Using
+              Advanced Understanding of Basic Machine Learning and Data Science Using
               Python: This program uqips me with the necessary skills to preproccess data,
               build and evaluate machine learning models, and perform data analysis using
               Python. Through a combination of theoretical learning and practial coding
