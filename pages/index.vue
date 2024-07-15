@@ -6,15 +6,15 @@
       <div class="w3-third">
         <div class="w3-white w3-text-grey w3-card-4">
           <div class="w3-display-container">
-            <img src="/jumri.jpg" style="width: 100%" alt="Avatar" />
+            <img src="/rizal.jpg" style="width: 100%" alt="Avatar" />
             <div class="w3-display-bottomleft w3-container w3-text-black">
-              <h2>Muh Jumri Yadi</h2>
+              <h2>Rizal Adi Nugroho</h2>
             </div>
           </div>
           <div class="w3-container">
             <p>
               <i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i
-              >Data Scientist
+              >Network Engineer
             </p>
             <p>
               <i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i
@@ -22,18 +22,18 @@
             </p>
             <p>
               <i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>
-              <a href="mailto:Jumriyadi11@gmail.com">Jumriyadi11@gmail.com</a>
+              <a href="mailto:Jumriyadi11@gmail.com">rizalnug442@gmail.com</a>
             </p>
             <p>
               <i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>(+62)
-              85216859793
+              85728275303
             </p>
-            <p>
+            <!-- <p>
               <i class="fa fa-linkedin fa-fw w3-margin-right w3-large w3-text-teal"></i
               ><a href="https://www.linkedin.com/in/muhjumriyadi/"
                 >https://www.linkedin.com/in/muhjumriyadi/</a
               >
-            </p>
+            </p> -->
             <hr />
 
             <p class="w3-large">
@@ -116,7 +116,7 @@
             <ul>
               <li>Technology and Innovation are the Future</li>
               <li>6th Semester Computer Systems Student at Bung Karno University</li>
-              <li>Specializing in Data Science</li>
+              <li>Specializing Network Engineering</li>
               <li>Ready to Contribute to Challenging Tech Projects</li>
             </ul>
           </div>
@@ -159,9 +159,9 @@
             <hr />
           </div>
           <div class="w3-container">
-            <h5 class="w3-opacity"><b>SMK YP IPPI PETOJO </b></h5>
+            <h5 class="w3-opacity"><b>SMKN 1 Giritontro </b></h5>
             <h6 class="w3-text-teal">
-              <i class="fa fa-calendar fa-fw w3-margin-right"></i>2018 – 2021
+              <i class="fa fa-calendar fa-fw w3-margin-right"></i>2017 – 2020
             </h6>
             <p>Computer and Network Engineering</p>
             <hr />
